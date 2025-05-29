@@ -13,7 +13,7 @@ This project demonstrates a conversational agent built with LangGraph that uses 
 1.  **Clone the repository:**
     ```bash
     git clone https://github.com/xinjkeee/python_test
-    cd https://github.com/xinjkeee/python_test
+    cd python_test
     ```
 
 2.  **Create and activate a virtual environment:**
