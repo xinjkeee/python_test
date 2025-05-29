@@ -31,9 +31,6 @@ Available tool:
 Function: get_current_time()
 Description: Returns the current UTC time in ISO-8601 format, like {"utc": "2025-05-21T06:42:00Z"}
 
-When you need to use a tool, respond with:
-TOOL_CALL: get_current_time()
-
 Only use the 'get_current_time' tool if the user explicitly asks for the current time or a time-related query. For general greetings like "Hello", respond naturally without using tools. Do not make up the answer yourself.
 """
 )
