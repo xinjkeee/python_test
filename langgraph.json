@@ -1,0 +1,9 @@
+{
+  "port": 8000,
+  "dependencies": [
+    "app.py"
+  ],
+  "graphs": {
+    "default": "app:get_graph"
+  }
+}
